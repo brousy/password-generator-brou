@@ -1,5 +1,7 @@
 // Assignment code here
+// CREATE VARIABLES FIRST USING CHARSETS and ARRAYS
 
+// function.genereatePassword () {}
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
