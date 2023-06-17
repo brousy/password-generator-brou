@@ -25,8 +25,7 @@ License
 <!-- The MIT License (MIT) -->
 
 Features
-Click on the NAV and scroll to that section.
-Click on an app to get to one of the repositories I've created. 
+ <!-- This website generates a password within the certain parameters dictated by the assignment acceptance criteria.  -->
 
 Live Link to Application:
 <!-- add url -->
