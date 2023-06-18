@@ -21,6 +21,7 @@ Credits
 List your collaborators, if any, with links to their GitHub profiles.
 
 Tutor, Sandra Smith
+[https://www.youtube.com/watch?v=O-79Cb5s9U4]
 
 
 
