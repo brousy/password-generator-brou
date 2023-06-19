@@ -5,7 +5,9 @@ function generatePassword() {
   var lowerChar = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'x', 'w', 'y', 'z'];
   var upperChar = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
   var numericChar = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'];
-  var length = parseInt("How long do you want your password to be");
+  //  I  think pasreInt or length is my issue for the generate password length
+  var length = [];
+  // var length = parseInt("How long do you want your password to be");
   var options = [];
   var finalChar = [];
   var possibleChar = [];
@@ -57,7 +59,7 @@ function generatePassword() {
     console.log(finalChar);
   }
   // let finalPassword = ""
-  for (var i = 0; i <length; i++) {
+  for (var i = 0; i < length; i++) {
     possibleChar.push(options(Math.floor(Math.random() * options.length)));
     console.log(possibleChar);
   }

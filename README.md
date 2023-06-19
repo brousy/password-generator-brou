@@ -22,6 +22,7 @@ List your collaborators, if any, with links to their GitHub profiles.
 
 Tutor, Sandra Smith
 [https://www.youtube.com/watch?v=O-79Cb5s9U4]
+[https://owasp.org/www-community/password-special-characters]
 
 
 
@@ -35,7 +36,7 @@ Features
 Live Link to Application:
 <!-- add url -->
 
-https://brousy.github.io/Brou-portfolio-new/
+[https://brousy.github.io/password-generator-brou/]
 <!-- add screenshots -->
 Screen Shots
 ![screenshot](./assets/images/screen1.jpg)
