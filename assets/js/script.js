@@ -63,12 +63,18 @@ function generatePassword() {
     console.log(finalChar);
   }
   // let finalPassword = ""
-  for (var i = 0; i < userPassword.length; i++) {
+  // for (var i = 0; i < userPassword.length; i++) {
     
-  var guarenteed=Math.floor(Math.random() * options.length);
-    console.log(possibleChar);
-    possibleChar.push(guarenteed);
+  // var guarenteed=Math.floor(Math.random() * options.length);
+  //   console.log(possibleChar);
+  //   possibleChar.push(guarenteed);
+  for (var i = 0; i < userPassword.length; i++) {
+    var randomIndex = Math.floor(Math.random() * options.length);
+    var randomChar = options[randomIndex];
+    possibleChar.push(randomChar);
   }
+  
+  
   for (var i = 0; i < finalChar.length; i++) {
     possibleChar[i] = finalChar[i];
   }
