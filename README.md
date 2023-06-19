@@ -39,6 +39,7 @@ Live Link to Application:
 [https://brousy.github.io/password-generator-brou/]
 <!-- add screenshots -->
 Screen Shots
-![screenshot](./assets/images/screen1.jpg)
-![screenshot](./assets/images/screen2.jpg)
+![screenshot](./assets/images/screenshot1.jpg)
+![screenshot](./assets/images/screenshot2.jpg)
+![screenshot](./assets/images/screenshot3.jpg)
 
